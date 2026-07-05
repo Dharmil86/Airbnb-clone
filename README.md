@@ -86,7 +86,6 @@ Add a few screenshots here.
 ## Future Improvements
 
 - Wishlist feature
-- Booking system
 - Better search and filtering
 - User profile page
 
